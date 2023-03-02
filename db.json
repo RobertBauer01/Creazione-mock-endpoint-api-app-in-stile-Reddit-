@@ -1,10 +1,9 @@
 {
-  "records": [
+  "articolo": [
     {
       "id": 1,
-      "title": "Songs in the key of life",
-      "artist": "Stevie Wonder",
-      "year": 1976,
-      "company": "Motown"
+      "titolo": "X1",
+      "url": "78h8d45ktc7",
+      "like": 179,
     },
     {
