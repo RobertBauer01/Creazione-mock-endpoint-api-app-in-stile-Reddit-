@@ -1,5 +1,5 @@
 {
-  "articolo": [
+  "articoli": [
     {
       "id": 1,
       "titolo": "X1",
@@ -17,6 +17,6 @@
       "titolo": "X3",
       "url": "jk56ad467fg",
       "like": 21,
-    },
+    }
     ]
 }
