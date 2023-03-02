@@ -1,1 +1,10 @@
-dati1
+{
+  "records": [
+    {
+      "id": 1,
+      "title": "Songs in the key of life",
+      "artist": "Stevie Wonder",
+      "year": 1976,
+      "company": "Motown"
+    },
+    {
